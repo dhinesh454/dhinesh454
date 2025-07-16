@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhinesh kumar 
-- 🌱 I’m currently learning ...full stack development(MERN)
+- 🌱 Full Stack Developer(MERN)
 - 📫 How to reach me ...dhinesh454@gmail.com
 
 <!---
